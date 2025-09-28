@@ -26,10 +26,10 @@
 
 **Description:** Basic CRUD and connect to MongoDB with docker
 
-|   Name   |   Tools   | Repo Link | 
-|-----------------|-----------------|----------------|
-|  product |   Express  | [Link](https://github.com/L-Jirayu/product-express) | 
-|          |   NestJS   | [Link](https://github.com/L-Jirayu/product-nestjs)  | 
+|   Name   |   Tools   | Repo Link | Repo Link | 
+|-----------------|-----------------|----------------|----------------|
+|  product |   Express  | [Link](https://github.com/L-Jirayu/product-express) | Manage stocks in warehouse |
+|          |   NestJS   | [Link](https://github.com/L-Jirayu/product-nestjs)  |  |
 
 
 </br>
