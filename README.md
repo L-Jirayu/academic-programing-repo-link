@@ -1,4 +1,4 @@
-### 📚 PHP (XAMPP) Stack Repository
+### 🌐🛠️ PHP (XAMPP) Stack Repository
 
 | Name | Repo Link | Description |
 |---------|-----------|-------------|
@@ -6,7 +6,7 @@
 
 </br>
 
-### 📚 C# ASP .NET (MVC) Stack Repository
+### 🌐🛠️ C# ASP .NET (MVC) Stack Repository
 
 | Name | Repo Link | Description |
 |---------|-----------|-------------|
@@ -15,7 +15,7 @@
 
 </br>
 
-### 📚 Backend Learning 
+### ⚙️ Backend Learning 
 
 **Description:** Basic CRUD and connect to MongoDB with docker
 
@@ -28,7 +28,7 @@
 </br>
 
 
-### 📚 Academic Programming Language Repository
+### 📚💻 Academic Programming Language Repository
 
 | Language | Name | Repo Link | Description |
 |-----------------|---------|-----------|-------------|
