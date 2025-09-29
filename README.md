@@ -1,11 +1,3 @@
-### 🌐🛠️ PHP (XAMPP) Stack Repository
-
-| Name | Repo Link | Description |
-|---------|-----------|-------------|
-| People Management System | [Link](https://github.com/L-Jirayu/people-management-xampp) | Manage people with CRUD + Auth for using within and make with PHP Language |
-
-</br>
-
 ### 🌐🛠️ C# ASP .NET (MVC) Stack Repository
 
 | Name | Repo Link | Description |
