@@ -10,7 +10,7 @@
 ### 🌐🛠️ DIP for AI Repository
 
 | Repo Link | Description |
-|---------|-----------|-------------|
+|---------|-----------|
 | [Link](https://github.com/L-Jirayu/dip-for-ai) | Learning about How to AI can detected picture using Digital Image Processing. it have Histrogram Equalization, Thresholding, Size&Centroid, Raw Moment, Central Moment and Hu Moment |
 
 
