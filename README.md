@@ -7,7 +7,7 @@
 
 </br>
 
-### 🌐🛠️ DIP for AI Repository
+### 📸🖼️ DIP for AI Repository
 
 |  Description | Repo Link |
 |---------|-----------|
